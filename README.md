@@ -1,5 +1,4 @@
 # ドラゴンボール
-# dragball is greate 
 # jop and git yeah
 # watch deeplabv3 api predict
 ```mermaid
