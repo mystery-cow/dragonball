@@ -3,7 +3,6 @@
 # and so on
 # jop and git yeah
 # watch deeplabv3 api predict
-# interface or 
 ```mermaid
 graph LR
 A[方形] -->B(圆角)
