@@ -1,6 +1,7 @@
 # ドラゴンボール
 # jop and git yeah
 # watch deeplabv3 api predict
+# 热爱迪迪 迪迪热爱我
 ```mermaid
 graph LR
 A[方形] -->B(圆角)
