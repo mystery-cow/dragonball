@@ -1,7 +1,6 @@
 
 # jop and git yeah
 # watch deeplabv3 api predict
-# 风一样的迪迪
 # 迪迪有件黑皮衣
 # 迪迪什么时候穿黑皮衣
 ```mermaid
